@@ -1,14 +1,14 @@
-# Sentiment-Analysis
-Sentiment Analysis using Recurrent Neural Networks (RNN-LSTM) and Google News Word2Vec
+# Hate Speech Detection and Intervention 
+Binary Hate Speech Detection using Recurrent Neural Networks (RNN-LSTM) and Google News Word2Vec
 
 ## Installation
 * Clone the repository
 
 ```bash
-git clone https://github.com/saadarshad102/Sentiment-Analysis-RNN-LSTM.git
+git clone https://github.com/ONFIRE7777/BTP
 ```
 
-* Open Sentiment-Analysis-RNN-LSTM folder
+* Open the folder
 
 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
